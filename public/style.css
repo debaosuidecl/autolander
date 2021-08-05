@@ -233,7 +233,19 @@
   .border-cont {
     /* border: none; */
     border: 7px solid white;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 16px;
+
     border-top: none;
+  }
+  .bordertop2 {
+    border-top-right-radius: 20px;
+  }
+
+  .bordertop {
+    border-top-left-radius: 20px;
   }
 
   .bordertop,
