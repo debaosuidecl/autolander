@@ -91,7 +91,7 @@
 }
 .whitelogo {
   width: 100%;
-  max-width: 400px;
+  max-width: 1300px;
 }
 .border-title {
   transform: translateY(-40px);
@@ -146,6 +146,7 @@
 }
 .buttoncont a {
   text-decoration: none;
+  border: 2px solid black;
   padding: 15px 10px;
   color: white;
   /* border: 1px solid black; */
@@ -162,7 +163,7 @@
 
 .longstory {
   border: 1px solid black;
-  background: rgba(255, 255, 255, 0.7);
+  background: rgba(255, 255, 255, 0.85);
   padding: 13px;
   border-radius: 15px;
   display: flex;
@@ -174,7 +175,7 @@
     font-size: 18px; */
   font-size: 20px;
   font-family: arial;
-  font-weight: 100;
+  font-weight: 700;
 
   text-align: justify;
 }
